@@ -355,7 +355,7 @@ template {
   left: 5%;
   z-index: 1;
   color: var(--hr-before-color);
-  content: '\f0c4';
+  content: '\f2dc';
   font-size: 20px;
   line-height: 1;
   -webkit-transition: all 1s ease-in-out;
@@ -1756,7 +1756,7 @@ figure.highlight pre .javascript .function {
 #article-container pre,
 #article-container code {
   font-size: 14px;
-  font-family: consolas , "Microsoft YaHei" , Menlo"PingFang sc" , "Microsoft JhengHei" , sans-serif !important;
+  font-family: consolas , "Microsoft YaHei" , Menlo"PingFang SC" , "Microsoft JhengHei" , sans-serif !important;
 }
 #article-container code {
   padding: 2px 4px;
